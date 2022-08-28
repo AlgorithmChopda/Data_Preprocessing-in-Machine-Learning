@@ -3,7 +3,7 @@ While working on Images in Machine Learning Projects it is very important to
 Pre-process the images.
 Preprocessing the images takes a lot of time and is very error-prone process
 
-we have built and developed the pre-processing Library that pre-process the images 
+we have built and developed the pre-processing Library that pre-process the images, 
 in this we have :
 
 - read N no of images from N no of directories 
